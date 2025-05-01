@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 4ff107ce322a56545b7ac45bcc58a753
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 274745305859932014
+    second: buster_0
+  - first:
+      213: -8734651201735980089
+    second: buster_1
+  - first:
+      213: 6970246641051717682
+    second: buster_2
+  - first:
+      213: -4369029190554350648
+    second: buster_3
+  - first:
+      213: -4441476013649611802
+    second: buster_4
+  - first:
+      213: -4039522712170548589
+    second: buster_5
+  - first:
+      213: -4305307685283604089
+    second: buster_6
+  - first:
+      213: 6423151621652399674
+    second: buster_7
+  - first:
+      213: -6200430630521977164
+    second: buster_8
+  - first:
+      213: 3693440632796734391
+    second: buster_9
+  - first:
+      213: 7338264139540361051
+    second: buster_10
+  - first:
+      213: -554640183036399691
+    second: buster_11
+  - first:
+      213: -28507996020051796
+    second: buster_12
+  - first:
+      213: -8719828068823478754
+    second: buster_13
+  - first:
+      213: -6353218627510361635
+    second: buster_14
+  - first:
+      213: -5648301021668069183
+    second: buster_15
+  - first:
+      213: 1178378353343421498
+    second: buster_16
+  - first:
+      213: -2490489299906518265
+    second: buster_17
+  - first:
+      213: -5537598399867563460
+    second: buster_18
+  - first:
+      213: 2461626508661193628
+    second: buster_19
+  - first:
+      213: 6043462927720934968
+    second: buster_20
+  - first:
+      213: -3189125011786179785
+    second: buster_21
+  - first:
+      213: -9042131767796564907
+    second: buster_22
+  - first:
+      213: -8471980093634246881
+    second: buster_23
+  - first:
+      213: 7610918817034442659
+    second: buster_24
+  - first:
+      213: -6059411126542415935
+    second: buster_25
+  - first:
+      213: 2821241580022974048
+    second: buster_26
+  - first:
+      213: -6619839047660532176
+    second: buster_27
+  - first:
+      213: 8039089147297518479
+    second: buster_28
+  - first:
+      213: -90415023630648790
+    second: buster_29
+  - first:
+      213: 6761124259912808697
+    second: buster_30
+  - first:
+      213: 2737894351521105368
+    second: buster_31
+  - first:
+      213: -8750235064794217226
+    second: buster_32
+  - first:
+      213: -8241576099789762320
+    second: buster_33
+  - first:
+      213: 8426249587439338952
+    second: buster_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buster_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 154
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fbc77666710d300800000000000000
+      internalID: 274745305859932014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 154
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb869b920948c680800000000000000
+      internalID: -8734651201735980089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 154
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2305fbcd36a4bb060800000000000000
+      internalID: 6970246641051717682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 154
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb02bb69171e53c0800000000000000
+      internalID: -4369029190554350648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 154
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e33ff7f815bc52c0800000000000000
+      internalID: -4441476013649611802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 93
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392b3fede7bb0f7c0800000000000000
+      internalID: -4039522712170548589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 93
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78959e188797044c0800000000000000
+      internalID: -4305307685283604089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 93
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36c01b5e5e932950800000000000000
+      internalID: 6423151621652399674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 94
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6494d5135a3f9a0800000000000000
+      internalID: -6200430630521977164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 94
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3e7d4dfacb14330800000000000000
+      internalID: 3693440632796734391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f6a49ea50c6d560800000000000000
+      internalID: 7338264139540361051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 57
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf25ff21b58d48f0800000000000000
+      internalID: -554640183036399691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 57
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca077ffe028ba9ff0800000000000000
+      internalID: -28507996020051796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 57
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ecb4f2292fcf680800000000000000
+      internalID: -8719828068823478754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1a9dea155d4d7a0800000000000000
+      internalID: -6353218627510361635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 56
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0bff295243d91b0800000000000000
+      internalID: -5648301021668069183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 59
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c5b0a7ed07a5010800000000000000
+      internalID: 1178378353343421498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 60
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703292a4d21007dd0800000000000000
+      internalID: -2490489299906518265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 59
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c325f13489f7623b0800000000000000
+      internalID: -5537598399867563460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 59
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b7f627444792220800000000000000
+      internalID: 2461626508661193628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 66
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e6c0c5381bed350800000000000000
+      internalID: 6043462927720934968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 62
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bdb20d2b3fdb3d0800000000000000
+      internalID: -3189125011786179785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 65
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cf5308015e38280800000000000000
+      internalID: -9042131767796564907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 62
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1700c6cdfa7d6a80800000000000000
+      internalID: -8471980093634246881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_24
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 65
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a79ca7f65a6f9960800000000000000
+      internalID: 7610918817034442659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_25
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 61
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7c36e3fa5a8eba0800000000000000
+      internalID: -6059411126542415935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 5
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066c4daf440172720800000000000000
+      internalID: 2821241580022974048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e0fe5a57b9124a0800000000000000
+      internalID: -6619839047660532176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83dd5e8cf4909f60800000000000000
+      internalID: 8039089147297518479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 9
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2af22ad308cebef0800000000000000
+      internalID: -90415023630648790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8f06241b654dd50800000000000000
+      internalID: 6761124259912808697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 9
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5c6fe1864fef520800000000000000
+      internalID: 2737894351521105368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f406cdb19be09680800000000000000
+      internalID: -8750235064794217226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_33
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 5
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f09ea6f33a00ad80800000000000000
+      internalID: -8241576099789762320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buster_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 6
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c58a180b5d00f470800000000000000
+      internalID: 8426249587439338952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buster_0: 274745305859932014
+      buster_1: -8734651201735980089
+      buster_10: 7338264139540361051
+      buster_11: -554640183036399691
+      buster_12: -28507996020051796
+      buster_13: -8719828068823478754
+      buster_14: -6353218627510361635
+      buster_15: -5648301021668069183
+      buster_16: 1178378353343421498
+      buster_17: -2490489299906518265
+      buster_18: -5537598399867563460
+      buster_19: 2461626508661193628
+      buster_2: 6970246641051717682
+      buster_20: 6043462927720934968
+      buster_21: -3189125011786179785
+      buster_22: -9042131767796564907
+      buster_23: -8471980093634246881
+      buster_24: 7610918817034442659
+      buster_25: -6059411126542415935
+      buster_26: 2821241580022974048
+      buster_27: -6619839047660532176
+      buster_28: 8039089147297518479
+      buster_29: -90415023630648790
+      buster_3: -4369029190554350648
+      buster_30: 6761124259912808697
+      buster_31: 2737894351521105368
+      buster_32: -8750235064794217226
+      buster_33: -8241576099789762320
+      buster_34: 8426249587439338952
+      buster_4: -4441476013649611802
+      buster_5: -4039522712170548589
+      buster_6: -4305307685283604089
+      buster_7: 6423151621652399674
+      buster_8: -6200430630521977164
+      buster_9: 3693440632796734391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
